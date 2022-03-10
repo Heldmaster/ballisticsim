@@ -7,19 +7,19 @@
 
 ## Вид программы
   Программа будет содержать в себе несколько элементов:
-1. Окно иерархии объектов на сцене, под ним окно атрибутов объекта 
+1. Окно иерархии объектов на сцене, под ним окно атрибутов объекта (UE4):
 
 ![hierarchy](https://github.com/Heldmaster/ballisticsim/blob/main/hierarchy.png)
 
-2. Вьюпорт 
+2. Вьюпорт (UE4/Blender):
 
 ![viewport](https://github.com/Heldmaster/ballisticsim/blob/main/viewport.png)
 
-3. Консоль
+3. Консоль (VS19):
 
 ![hierarchy](https://github.com/Heldmaster/ballisticsim/blob/main/console.png)
 
-4. Таймлайн или доупшит с графиками в настраиваемых координатах
+4. Таймлайн или доупшит с графиками в настраиваемых координатах (Blender):
 
 ![timeline](https://github.com/Heldmaster/ballisticsim/blob/main/timeline.png) 
   
