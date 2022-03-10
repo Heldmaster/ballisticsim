@@ -14,6 +14,7 @@
 2. Вьюпорт 
 
 ![viewport](https://github.com/Heldmaster/ballisticsim/blob/main/viewport.png)
+
 3. Консоль
 
 ![hierarchy](https://github.com/Heldmaster/ballisticsim/blob/main/console.png)
