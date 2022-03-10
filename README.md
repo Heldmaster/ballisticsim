@@ -23,7 +23,7 @@
 
 ![timeline](https://github.com/Heldmaster/ballisticsim/blob/main/timeline.png) 
   
-  
+В итоге получим некую смесь из виджетов, позаимствованных у разных программ.
   
   
   
