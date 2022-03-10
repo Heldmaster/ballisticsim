@@ -8,12 +8,18 @@
 ## Вид программы
   Программа будет содержать в себе несколько элементов:
 1. Окно иерархии объектов на сцене, под ним окно атрибутов объекта 
+
 ![hierarchy](https://github.com/Heldmaster/ballisticsim/blob/main/hierarchy.png)
+
 2. Вьюпорт 
+
 ![viewport](https://github.com/Heldmaster/ballisticsim/blob/main/viewport.png)
 3. Консоль
+
 ![hierarchy](https://github.com/Heldmaster/ballisticsim/blob/main/console.png)
+
 4. Таймлайн или доупшит с графиками в настраиваемых координатах
+
 ![timeline](https://github.com/Heldmaster/ballisticsim/blob/main/timeline.png) 
   
   
